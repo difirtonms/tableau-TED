@@ -1,1 +1,1 @@
-https://www.ozon.ru/product/rondell-kastryulya-s-kryshkoy-24-sm-4-8-l-strike-rds-715-1722204625/?from_sku=1722204384&oos_search=false
+https://public.tableau.com/views/projectTED2001-2021/TED2001-2021?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
